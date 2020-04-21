@@ -87,5 +87,5 @@ def main():
 
 
 if __name__ == '__main__':
-    # main()
-    print(encode(12, 2))
+    main()
+    # print(encode(12, 2))
